@@ -1,0 +1,10 @@
+Package: sixarm-debian-video-packages
+Version: 1.0.1
+Section: devel
+Priority: optional
+Architecture: all
+Depends: ffmpeg, ffmpeg2theora, ffmpegthumbnailer, mozilla-plugin-vlc, openshot, vlc, vlc-plugin-fluidsynth, vlc-plugin-jack, vlc-plugin-notify, vlc-plugin-pulse, vlc-plugin-sdl, vlc-plugin-svg, vlc-plugin-zvb, libavcodec53, libavcodec-dev, libavifile-0.7c2, libavifile-0.7-dev, libavformat-dev, libmp3lame0, libmp3lame-dev, libffmpegthumbnailer-dev, libffmpegthumbnailer4, libogg0, libogg-dev, libtheora-bin, libtheora-dev, libtheora-doc, libtheora0, libx264-120, libx264-dev
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Video packages we like to use
+ Video packages we like to use together.
+
